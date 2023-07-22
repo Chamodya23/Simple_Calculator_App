@@ -1,4 +1,4 @@
-# calculator
+![calculator](https://github.com/Chamodya23/Simple_Calculator_App/assets/87930614/299ebf5a-6c1b-4595-91fe-e3d50ec22186)# simple_calculator_app
 
 A new Flutter project.
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<br>
+<br>
+<br>
+
+
+![calculator](https://github.com/Chamodya23/Simple_Calculator_App/assets/87930614/20d20833-a607-4987-9e56-bc2ed045740c)
