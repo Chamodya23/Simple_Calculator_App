@@ -1,4 +1,4 @@
-![calculator](https://github.com/Chamodya23/Simple_Calculator_App/assets/87930614/299ebf5a-6c1b-4595-91fe-e3d50ec22186)# simple_calculator_app
+# simple_calculator_app
 
 A new Flutter project.
 
